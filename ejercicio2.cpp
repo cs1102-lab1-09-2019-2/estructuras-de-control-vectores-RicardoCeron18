@@ -6,7 +6,7 @@ using namespace std;
 int moda(vector<int> &lista);
 vector<int> leerConsole();
 
-vector<int> leerConsola() {
+vector<int> leerConsole() {
     //Ingrese un numero positivo, escriba -1 si ya no quiere ingresar mas numeros:
     vector<int> elementos;
     int numero;
